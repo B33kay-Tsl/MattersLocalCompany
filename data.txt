@@ -1,0 +1,8 @@
+DATA LOG
+****************************
+Customer Name: mpk
+Product: Restonic Barbados
+VAT: R7500.0
+COMMISSION: R2500.0
+TOTAL: R60000.0
+**************************
